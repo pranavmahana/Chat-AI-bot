@@ -83,6 +83,6 @@ Open a Pull Request
 This project is licensed under the MIT License.
 
 📬 Contact
-For issues, create a GitHub Issue or contact me via email: your-email@example.com.
+For issues, create a GitHub Issue or contact me via email: pranavmahana@gmail.com.
 
 🚀 Happy Coding! 😊
